@@ -48,7 +48,6 @@ Também atuo compartilhando conhecimentos em tecnologia, experiência que vem fo
 
 ![Hardware](https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-111827?style=for-the-badge&logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
