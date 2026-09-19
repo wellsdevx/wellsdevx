@@ -28,4 +28,92 @@ Também atuo compartilhando conhecimentos em tecnologia, experiência que vem fo
 - 💻 Desenvolvendo meus conhecimentos em **programação**
 - 🔐 Explorando o mundo da **Cibersegurança**
 - 🖥️ Aprofundando conhecimentos em **Suporte Técnico e Hardware**
-- 🐧
+- 🐧 Aprendendo mais sobre **Linux**
+- 👨‍🏫 Compartilhando conhecimento em **tecnologia**
+- 🚀 Construindo meus primeiros projetos para o GitHub
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,linux,windows,photoshop,vscode" alt="Tecnologias e ferramentas" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Hardware](https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
+![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wellsdevx&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsdevx&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
+</div>
+
+> 📌 Meu perfil ainda está no começo. As estatísticas vão crescer junto com meus estudos e projetos.
+
+---
+
+## 🗺️ Minha jornada
+
+```text
+Tecnologia
+   │
+   ├── 🖥️ Suporte Técnico & Hardware
+   │
+   ├── 🌐 Desenvolvimento
+   │
+   ├── 🐧 Linux
+   │
+   ├── 🔐 Cibersegurança
+   │
+   └── 🚀 Próximos projetos...
+```
+
+---
+
+## 📚 Próximos passos
+
+- [ ] Publicar meus primeiros projetos
+- [ ] Aprimorar HTML e CSS
+- [ ] Avançar nos estudos de programação
+- [ ] Criar projetos relacionados à faculdade
+- [ ] Explorar ferramentas de Cibersegurança
+- [ ] Construir meu portfólio de tecnologia
+
+---
+
+## 🤝 Vamos nos conectar!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/wellsviana">
+  <img src="https://img.shields.io/badge/LinkedIn-Welder_Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 Aprender. Criar. Evoluir.
+
+![Visualizações](https://komarev.com/ghpvc/?username=wellsdevx&style=for-the-badge&color=0A66C2)
+
+</div>
