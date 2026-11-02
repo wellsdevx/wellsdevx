@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050B19,45:10264B,100:38266F&text=WellsDevX&fontColor=EAF7FF&fontSize=52&fontAlignY=38&desc=DEVELOPER'S%20JOURNEY&descAlignY=59&descSize=19&descColor=8AD8FF&animation=fadeIn" width="100%" alt="WellsDevX — Developer's Journey">
+<img src="./WellsDevX_Banner_Lunar_Animado_v3.gif"
+     alt="WellsDevX — Developer's Journey"
+     width="100%">
 
 ### Build. Learn. Explore.
 
