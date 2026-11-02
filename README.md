@@ -81,13 +81,6 @@ Roblox Studio, movimentação de personagens, parkour, câmera e prototipagem.
 - [ ] Documentar uma versão jogável do Snapline
 - [ ] Organizar meu portfólio profissional
 
-## Um pouco do meu progresso
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellsdevx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
 
 ---
 
@@ -101,6 +94,9 @@ Roblox Studio, movimentação de personagens, parkour, câmera e prototipagem.
 
 </div>
 
-
-![WellsDevX — Rooftop Run](./wellsdevx-overhead-run-v2.gif)
+<p align="center">
+  <img src="./wellsdevx-overhead-run-v2.gif"
+       alt="WellsDevX — Rooftop Run"
+       width="70%">
+</p>
 
