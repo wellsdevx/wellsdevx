@@ -30,7 +30,7 @@ Essas referências influenciam minha vontade de desenvolver minhas próprias exp
 
 | Projeto | Descrição | Situação |
 | :--- | :--- | :--- |
-| [Atlas](https://github.com/wellsdevx/Atlas_Project) | Projeto acadêmico de desenvolvimento web com HTML e CSS | Em desenvolvimento |
+| [Atlas](https://github.com/wellsdevx/Atlas_Project) · [Ver site](https://wellsdevx.github.io/Atlas_Project/) | Site acadêmico de exploração cultural desenvolvido em equipe com HTML e CSS | Versão online disponível |
 | UPSkill | Projeto acadêmico de modelagem de banco de dados para gestão educacional | Em desenvolvimento |
 | Snapline | Projeto pessoal no Roblox com foco em parkour, movimentação e stealth | Protótipo |
 
@@ -76,6 +76,7 @@ Roblox Studio, movimentação de personagens, parkour, câmera e prototipagem.
 
 - [x] Criar meu perfil no GitHub
 - [x] Começar meus projetos acadêmicos
+- [x] Publicar primeira versão online do Atlas
 - [ ] Publicar o Atlas completo
 - [ ] Documentar e publicar a UPSkill
 - [ ] Documentar uma versão jogável do Snapline
