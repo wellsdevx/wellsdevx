@@ -136,7 +136,7 @@ Roblox Studio, movimentação de personagens, parkour, câmera, mecânicas de jo
 
 [Ver primeira versão do meu perfil](https://github.com/wellsdevx/perfil-antigo)
 
-<img src="./WellsDevX_Rooftop_Run_10_Corrigido.gif"
+<img src="./WellsDevX_Rooftop_Run_Final_11.gif"
      alt="WellsDevX — Rooftop Run"
      width="100%">
 
