@@ -1,16 +1,17 @@
 
 <div align="center">
 
-# WellsDevX
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050B19,45:10264B,100:38266F&text=WellsDevX&fontColor=EAF7FF&fontSize=52&fontAlignY=38&desc=DEVELOPER'S%20JOURNEY&descAlignY=59&descSize=19&descColor=8AD8FF&animation=fadeIn" width="100%" alt="WellsDevX — Developer's Journey">
 
-### Developer's Journey
+### Build. Learn. Explore.
 
 **Tecnologia • Desenvolvimento • Suporte Técnico**
 
-Estudante de Análise e Desenvolvimento de Sistemas, explorando ideias e transformando aprendizado em projetos.
+Estudante de Análise e Desenvolvimento de Sistemas, transformando aprendizado em projetos e explorando novas possibilidades na tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellsviana)
-[![GitHub](https://img.shields.io/badge/GitHub-Projetos-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/wellsdevx?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-16263E?style=flat-square&logo=github&logoColor=white)](https://github.com/wellsdevx?tab=repositories)
+[![Atlas](https://img.shields.io/badge/Atlas-Ver%20projeto-245B88?style=flat-square&logo=googleearth&logoColor=white)](https://wellsdevx.github.io/Atlas_Project/)
 
 </div>
 
@@ -26,66 +27,106 @@ Também gosto muito de jogos, principalmente aqueles que oferecem liberdade de m
 
 Essas referências influenciam minha vontade de desenvolver minhas próprias experiências.
 
-## Projetos
+## Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,mysql&theme=dark" alt="HTML, CSS, Git, GitHub, VS Code e MySQL">
+
+</div>
+
+**Desenvolvimento web:** HTML5 e CSS3.
+
+**Ferramentas:** Git, GitHub e Visual Studio Code.
+
+**Em aprendizado:** programação, banco de dados, SQL e desenvolvimento de sistemas.
+
+Também tenho interesse em **Linux, segurança da informação e desenvolvimento de jogos**.
+
+---
+
+## Projeto em destaque
+
+<div align="center">
+
+### Atlas — Explore o Mundo
+
+**Uma experiência de exploração cultural desenvolvida em equipe.**
+
+O Atlas é um projeto acadêmico de desenvolvimento Front-End que reúne informações sobre dez países, abordando diferentes temas culturais, históricos e geográficos.
+
+O site utiliza HTML e CSS, com uma identidade visual compartilhada e páginas organizadas por país.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Versão%20online-245B88?style=flat-square)
+
+[![Ver site](https://img.shields.io/badge/EXPLORAR%20O%20ATLAS-245B88?style=for-the-badge&logo=googleearth&logoColor=white)](https://wellsdevx.github.io/Atlas_Project/)
+[![Código](https://img.shields.io/badge/VER%20CÓDIGO-17263E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wellsdevx/Atlas_Project)
+
+</div>
+
+**Minha participação:** desenvolvimento da página inicial, organização da estrutura, navegação entre páginas e integração visual do projeto.
+
+O Atlas continua recebendo atualizações conforme as etapas acadêmicas são concluídas.
+
+## Outros projetos
 
 | Projeto | Descrição | Situação |
 | :--- | :--- | :--- |
-| [Atlas](https://github.com/wellsdevx/Atlas_Project) · [Ver site](https://wellsdevx.github.io/Atlas_Project/) | Site acadêmico de exploração cultural desenvolvido em equipe com HTML e CSS | Versão online disponível |
-| UPSkill | Projeto acadêmico de modelagem de banco de dados para gestão educacional | Em desenvolvimento |
-| Snapline | Projeto pessoal no Roblox com foco em parkour, movimentação e stealth | Protótipo |
+| **UPSkill** | Projeto acadêmico de modelagem de banco de dados para gestão educacional | Em desenvolvimento |
+| **Snapline** | Projeto pessoal no Roblox com foco em parkour, movimentação e stealth | Protótipo |
+
+---
 
 ## Áreas que estou explorando
 
 <details>
 <summary><b>01 — Desenvolvimento web</b></summary>
 
-<br>
-
-HTML, CSS, estrutura de páginas, layouts e interfaces.
+HTML, CSS, estrutura semântica, navegação, layouts e interfaces responsivas.
 
 </details>
 
 <details>
 <summary><b>02 — Banco de dados</b></summary>
 
-<br>
-
-Modelagem conceitual, DER, relacionamentos e fundamentos de SQL.
+Modelagem conceitual, DER, relacionamentos, chaves primárias e estrangeiras e fundamentos de SQL.
 
 </details>
 
 <details>
 <summary><b>03 — Suporte técnico</b></summary>
 
-<br>
-
-Hardware, manutenção, sistemas operacionais e resolução de problemas.
+Hardware, manutenção, sistemas operacionais e resolução de problemas técnicos.
 
 </details>
 
 <details>
 <summary><b>04 — Desenvolvimento de jogos</b></summary>
 
-<br>
-
-Roblox Studio, movimentação de personagens, parkour, câmera e prototipagem.
+Roblox Studio, movimentação de personagens, parkour, câmera, mecânicas de jogo e prototipagem.
 
 </details>
+
+---
 
 ## Minha jornada
 
 - [x] Criar meu perfil no GitHub
 - [x] Começar meus projetos acadêmicos
-- [x] Publicar primeira versão online do Atlas
+- [x] Publicar a primeira versão online do Atlas
+- [x] Organizar minha apresentação profissional no GitHub
 - [ ] Publicar o Atlas completo
-- [ ] Documentar e publicar a UPSkill
+- [ ] Documentar minha participação no UPSkill
 - [ ] Documentar uma versão jogável do Snapline
-- [ ] Organizar meu portfólio profissional
-
+- [ ] Continuar expandindo meu portfólio
 
 ---
 
 <div align="center">
+
+### Every journey begins somewhere.
 
 **BUILD. LEARN. LEVEL UP.**
 
@@ -93,11 +134,6 @@ Roblox Studio, movimentação de personagens, parkour, câmera e prototipagem.
 
 [Ver primeira versão do meu perfil](https://github.com/wellsdevx/perfil-antigo)
 
+<img src="./wellsdevx-overhead-run-v2.gif" alt="WellsDevX — Rooftop Run" width="70%">
+
 </div>
-
-<p align="center">
-  <img src="./wellsdevx-overhead-run-v2.gif"
-       alt="WellsDevX — Rooftop Run"
-       width="70%">
-</p>
-
