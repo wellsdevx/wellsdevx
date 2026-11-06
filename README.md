@@ -119,8 +119,8 @@ Roblox Studio, movimentação de personagens, parkour, câmera, mecânicas de jo
 - [x] Começar meus projetos acadêmicos
 - [x] Publicar a primeira versão online do Atlas
 - [x] Organizar minha apresentação profissional no GitHub
-- [ ] Publicar o Atlas completo
-- [ ] Documentar minha participação no UPSkill
+- [x] Publicar o Atlas completo
+- [x] Documentar minha participação no UPSkill
 - [ ] Documentar uma versão jogável do Snapline
 - [ ] Continuar expandindo meu portfólio
 
